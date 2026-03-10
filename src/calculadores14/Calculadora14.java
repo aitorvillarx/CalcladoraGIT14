@@ -2,6 +2,12 @@ package calculadores14;
 /**
 	Esta clase es utilizada como calculadora
 */
+/**
+*suma dos enteros
+*resta dos enteros
+*divide dos enteros
+*multiplica dos enteros
+*/
 public class Calculadora14 {
 	public int restar(int a, int b) {
 		 return a - b;
