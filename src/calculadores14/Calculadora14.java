@@ -1,5 +1,7 @@
 package calculadores14;
-
+/**
+	Esta clase es utilizada como calculadora
+*/
 public class Calculadora14 {
 	public int restar(int a, int b) {
 		 return a - b;
